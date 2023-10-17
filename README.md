@@ -1265,3 +1265,6 @@ Jangan lupa melakukan restart apache2 karena telah dilakukan perubahan pada file
 ### Output
 Melakukan testing `lynx parikesit.abimanyu.e09.com/public/images/not-abimanyu.png` pada client Nakula.
 ![output-20](img/output-20.png)
+
+## Kendala
+Terdapat kendala pada saat praktikum yaitu internet yang tidak stabil yang membuat mudahnya `connection closed` dan `connection lost` pada GNS3. Dikarenakan koneksi yang terputus itu, ketika koneksi disambungkan kembali, konfigurasi pada GNS3 menghilang dan membutuhkan banyak waktu untuk mengisi konfigurasi dari awal.

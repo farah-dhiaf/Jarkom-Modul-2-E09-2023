@@ -146,7 +146,7 @@ apt-get update
 apt-get install dnsutils -y
 apt-get install lynx -y
 apt-get install apache2 -y
-apt-get install libapache2-mod-php7.0 -y
+apt-get install libapache2-mod-php7.2 -y
 service apache2 start
 ```
 
@@ -170,7 +170,7 @@ apt-get update
 apt-get install dnsutils -y
 apt-get install lynx -y
 apt-get install apache2 -y
-apt-get install libapache2-mod-php7.0 -y
+apt-get install libapache2-mod-php7.2 -y
 service apache2 start
 ```
 

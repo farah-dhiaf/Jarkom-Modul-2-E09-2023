@@ -136,6 +136,7 @@ apt-get install php -y
 
 ### Nakula
 ```
+echo'
 nameserver 10.41.1.2
 nameserver 10.41.2.2
 nameserver 192.168.122.1
@@ -159,6 +160,7 @@ apt-get install bind9 -y
 
 ### Sadewa
 ```
+echo'
 nameserver 10.41.1.2
 nameserver 10.41.2.2
 nameserver 192.168.122.1

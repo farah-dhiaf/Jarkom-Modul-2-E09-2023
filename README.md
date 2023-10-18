@@ -898,7 +898,7 @@ Setelah itu jangan lupa untuk restart apache2.
 
 ### Output
 
-Melakukan testing `lynx abimanyu.a09.com/home` di client Nakula
+Melakukan testing `lynx abimanyu.e09.com/home` di client Nakula
 ![output-12](img/output-12.png)
 
 ## Nomor 13
@@ -1031,8 +1031,8 @@ Jangan lupa untuk melakukan restart apache2
 Melakukan testing berikut di client Nakula
 
 ```
-lynx parikesit.abimanyu.a09.com/errortest
-lynx parikesit.abimanyu.a09.com/secret
+lynx parikesit.abimanyu.e09.com/errortest
+lynx parikesit.abimanyu.e09.com/secret
 ```
 Error </br>
 ![output-15-error-1](img/output-15-error-1.png)</br>
@@ -1080,7 +1080,7 @@ Jangan lupa untuk melakukan restart apache2
 
 ### Output
 
-Melakukan testing `lynx parikesit.abimanyu.a09.com/js` pada client Nakula.
+Melakukan testing `lynx parikesit.abimanyu.e09.com/js` pada client Nakula.
 ![output-16](img/output-16.png)
 
 ## Nomor 17
@@ -1134,8 +1134,8 @@ Jangan lupa melakukan `a2ensite rjp.baratayuda.abimanyu.e09.com.conf` untuk meng
 Melakukan testing berikut di client Nakula.
 
 ```
-lynx rjp.baratayuda.abimanyu.a09.com:14000
-lynx rjp.baratayuda.abimanyu.a09.com:14400
+lynx rjp.baratayuda.abimanyu.e09.com:14000
+lynx rjp.baratayuda.abimanyu.e09.com:14400
 ```
 
 Kedua port akan mengeluarkan output yang sama

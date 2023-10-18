@@ -939,7 +939,7 @@ Setelah itu jangan lupa untuk restart apache2.
 
 ### Output
 
-Melakukan testing `lynx parikesit.abimanyu.a09.com` pada client Nakula
+Melakukan testing `lynx parikesit.abimanyu.e09.com` pada client Nakula
 ![output-13](img/output-13.png)
 
 ## Nomor 14
